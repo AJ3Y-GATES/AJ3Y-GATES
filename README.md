@@ -1,6 +1,6 @@
 <div align="center">
 
-# António de Jesus 👋
+# António de Jesus 
 
 ### DevOps • Network Engineering • Cybersecurity • Software Engineering
 
@@ -12,7 +12,7 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 I'm **António de Jesus**, also known as **Antonio DevOpsCloud**.
 
@@ -22,17 +22,17 @@ My long-term goal is to become a professional **DevSecOps Engineer**, **Network 
 
 Currently I'm studying **Cisco Network Essentials** through Cisco Networking Academy while preparing for:
 
-- 🎯 CCNA
-- 🎯 CCNP
-- 🎯 CCIE
-- 🎯 Security Certifications
-- 🎯 DevSecOps
+-  CCNA
+-  CCNP
+-  CCIE
+-  Security Certifications
+-  DevSecOps
 
 I believe the best engineers understand both **development** and **infrastructure**.
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -66,7 +66,7 @@ I believe the best engineers understand both **development** and **infrastructur
 
 ---
 
-# 🌐 Areas of Interest
+#  Areas of Interest
 
 ```text
 Software Engineering
@@ -90,31 +90,31 @@ Automation
 
 ---
 
-# 📚 Current Journey
+#  Current Journey
 
-✔ Python
+ Python
 
-✔ PHP
+ PHP
 
-✔ JavaScript
+ JavaScript
 
-✔ HTML
+ HTML
 
-✔ CSS
+ CSS
 
-✔ Java
+ Java
 
-✔ C#
+ C#
 
-🚀 Learning Go
+ Learning Go
 
-📖 Cisco Network Essentials
+ Cisco Network Essentials
 
-🎯 Preparing for CCNA
+ Preparing for CCNA
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -123,10 +123,9 @@ Automation
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ3Y-GATES&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
-# 🔥 Contribution Streak
+#  Contribution Streak
 
 <p align="center">
 
@@ -136,7 +135,7 @@ Automation
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 
@@ -146,7 +145,7 @@ Automation
 
 ---
 
-# 📊 Activity Graph
+#  Activity Graph
 
 <p align="center">
 
@@ -156,7 +155,7 @@ Automation
 
 ---
 
-# 💡 Philosophy
+#  Philosophy
 
 > "Technology isn't just about writing code.
 >
@@ -164,7 +163,7 @@ Automation
 
 ---
 
-# 🎯 2026 Goals
+#  2026 Goals
 
 - Complete Cisco Network Essentials
 - Earn CCNA Certification
@@ -178,7 +177,7 @@ Automation
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -192,6 +191,6 @@ Automation
 
 <div align="center">
 
-### ⚡ "Secure by Design. Automated by Default."
+###  "Secure by Design. Automated by Default."
 
 </div>
