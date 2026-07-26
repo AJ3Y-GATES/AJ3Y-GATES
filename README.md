@@ -182,7 +182,7 @@ Automation
 
 
 <a href="mailto:antonio@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white"/>
 </a>
 
 </p>
