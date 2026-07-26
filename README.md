@@ -18,14 +18,14 @@ I'm **António de Jesus**, also known as **Antonio DevOpsCloud**.
 
 I enjoy building software, but my biggest passion is **network engineering and cloud infrastructure**.
 
-My long-term goal is to become a professional **DevSecOps Engineer**, **Network Engineer**, combining automation, secure infrastructure and offensive security.
+My long-term goal is to become a professional **DevOps Engineer**, **Network Engineer**, combining automation and secure infrastructure.
 
 Currently I'm studying **Cisco Network Essentials** through Cisco Networking Academy while preparing for:
 
 -  CCNA
 -  CCNP
 -  CCIE
--  DevSecOps
+-  DevOps
 
 I believe the best engineers understand both **development** and **infrastructure**.
 
@@ -37,7 +37,7 @@ I believe the best engineers understand both **development** and **infrastructur
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,go,java,cs"/>
+<img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,go"/>
 
 </p>
 
@@ -59,7 +59,7 @@ I believe the best engineers understand both **development** and **infrastructur
 - Docker
 - Linux Administration
 - Networking
-- DevSecOps
+- DevOps
 - Cloud Computing
 
 ---
@@ -166,7 +166,7 @@ Automation
 - Learn Kubernetes
 - Master Docker
 - Build Cloud Projects
-- Study DevSecOps
+- Study DevOps
 - Create Open Source Projects
 
 
@@ -180,7 +180,7 @@ Automation
  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:teuemail@gmail.com">
+<a href="mailto:antonioa0625@gmail.com">
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
 </a>
 </p>
