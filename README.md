@@ -136,9 +136,9 @@ Automation
 
 <img src="https://github-profile-trophy.vercel.app/?username=AJ3Y-GATES&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-</p>-->
+</p>
 
----
+--- -->
 
 #  Activity Graph
 
