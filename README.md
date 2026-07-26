@@ -2,11 +2,11 @@
 
 # António de Jesus 
 
-### DevOps • Network Engineering • Cybersecurity • Software Engineering
+### DevOps • Network Engineering • Software Engineering
 
 *"Building secure infrastructure, automating everything and never stopping learning."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Future+DevSecOps+Engineer;Network+Engineering+Student;Cybersecurity+Enthusiast;Python+%7C+Go+%7C+PHP+%7C+JavaScript;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Future+DevSecOps+Engineer;Network+Engineering+Student;Python+%7C+Go+%7C+PHP+%7C+JavaScript;Always+Learning+Always+Building"/>
 
 </div>
 
@@ -16,16 +16,15 @@
 
 I'm **António de Jesus**, also known as **Antonio DevOpsCloud**.
 
-I enjoy building software, but my biggest passion is **network engineering, cybersecurity and cloud infrastructure**.
+I enjoy building software, but my biggest passion is **network engineering and cloud infrastructure**.
 
-My long-term goal is to become a professional **DevSecOps Engineer**, **Network Engineer**, or **Penetration Tester**, combining automation, secure infrastructure and offensive security.
+My long-term goal is to become a professional **DevSecOps Engineer**, **Network Engineer**, combining automation, secure infrastructure and offensive security.
 
 Currently I'm studying **Cisco Network Essentials** through Cisco Networking Academy while preparing for:
 
 -  CCNA
 -  CCNP
 -  CCIE
--  Security Certifications
 -  DevSecOps
 
 I believe the best engineers understand both **development** and **infrastructure**.
@@ -62,7 +61,6 @@ I believe the best engineers understand both **development** and **infrastructur
 - Networking
 - DevSecOps
 - Cloud Computing
-- Ethical Hacking
 
 ---
 
@@ -74,9 +72,6 @@ Software Engineering
 
 Networking
 ████████████████████████████
-
-Cybersecurity
-██████████████████████████████
 
 DevOps
 ██████████████████████████
@@ -114,7 +109,7 @@ Automation
 
 ---
 
-#  GitHub Stats
+<!--#  GitHub Stats
 
 <p align="center">
 
@@ -141,7 +136,7 @@ Automation
 
 <img src="https://github-profile-trophy.vercel.app/?username=AJ3Y-GATES&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-</p>
+</p>-->
 
 ---
 
@@ -173,7 +168,7 @@ Automation
 - Build Cloud Projects
 - Study DevSecOps
 - Create Open Source Projects
-- Practice Penetration Testing
+
 
 ---
 
