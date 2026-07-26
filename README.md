@@ -118,9 +118,9 @@ Automation
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AJ3Y-GATES&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ3Y-GATES&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -130,7 +130,7 @@ Automation
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AJ3Y-GATES&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -140,7 +140,7 @@ Automation
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AJ3Y-GATES&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -150,7 +150,7 @@ Automation
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AJ3Y-GATES&theme=tokyo-night"/>
 
 </p>
 
@@ -182,7 +182,7 @@ Automation
 
 <p align="center">
 
-<a href="https://github.com/SEU_USERNAME">
+<a href="https://github.com/AJ3Y-GATES">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
