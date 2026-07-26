@@ -180,11 +180,9 @@ Automation
  <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-
 <a href="mailto:teuemail@gmail.com">
-<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
 </a>
-
 </p>
 
 ---
