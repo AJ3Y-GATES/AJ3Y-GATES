@@ -177,7 +177,12 @@ Automation
 <p align="center">
 
 <a href="https://github.com/AJ3Y-GATES">
-<img src="https://skillicons.dev/icons?i=github"/>
+ <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+
+<a href="mailto:antonio@email.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
